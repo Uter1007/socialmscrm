@@ -1,0 +1,3 @@
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.installer\bin\Debug\cab1.cab
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.msi
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.wixpdb

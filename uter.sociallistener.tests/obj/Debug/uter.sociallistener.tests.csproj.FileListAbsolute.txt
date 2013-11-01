@@ -1,0 +1,114 @@
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.tests.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.tests.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.csprojResolveAssemblyReference.cache
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Asynchronous.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Streaming.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\AutoMapper.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Asynchronous.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Streaming.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\AutoMapper.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\NLog.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\App.config
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.general.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.general.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\App.config
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.tests.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.tests.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Asynchronous.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Streaming.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.general.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\NLog.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\AutoMapper.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.general.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Asynchronous.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Streaming.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\AutoMapper.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.csprojResolveAssemblyReference.cache
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.csprojResolveAssemblyReference.cache
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\App.config
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.tests.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.tests.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Asynchronous.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Streaming.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.general.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\NLog.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Facebook.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\AutoMapper.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.general.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Asynchronous.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Streaming.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\NLog.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Facebook.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\AutoMapper.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\App.config
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.tests.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.tests.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Asynchronous.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Streaming.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.general.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\NLog.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Facebook.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\AutoMapper.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\uter.sociallistener.general.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Asynchronous.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Twitterizer2.Streaming.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\NLog.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\Facebook.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\AutoMapper.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.csprojResolveAssemblyReference.cache
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.tests\bin\Debug\LinqToTwitter.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\uter.sociallistener.tests.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\uter.sociallistener.tests.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\LinqToTwitter.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\Twitterizer2.Asynchronous.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\Twitterizer2.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\Twitterizer2.Streaming.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\uter.sociallistener.general.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\NLog.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\Facebook.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\AutoMapper.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\Twitterizer2.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\Twitterizer2.Asynchronous.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\Twitterizer2.Streaming.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\uter.sociallistener.general.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\NLog.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\Facebook.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\bin\Debug\AutoMapper.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.csprojResolveAssemblyReference.cache
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.tests\obj\Debug\uter.sociallistener.tests.pdb

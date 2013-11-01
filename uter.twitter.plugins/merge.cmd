@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft\ILMerge\ILMerge.exe" /lib:"C:\Program Files\Microsoft ASP.NET\ASP.NET MVC 4\Assemblies" "..\bin\Debug\uter.twitter.plugins.dll" "..\bin\Debug\LinqToTwitter.dll" "..\bin\Debug\Newtonsoft.Json.dll" /log:pluginassemblymerge.log /targetplatform:v4 /keyfile:"..\uter.snk" /out:uter.twitter.pluginsTwitter.dll

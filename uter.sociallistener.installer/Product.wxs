@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="{5E76E898-4642-4D13-8997-222A6C73BC75}" Name="uter.sociallistener.installer" Language="1033" Version="1.0.0.0" Manufacturer="Uter" UpgradeCode="b3f523f1-30a8-4b21-b8d7-4acae5b85c18">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate />
+
+		<Feature Id="ProductFeature" Title="uter.sociallistener.installer" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="Uter Social Listener" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="ProductComponent" Guid="{41921D91-664C-4428-924A-96BF9489C0C6}">
+        <File Id="AutoMapper.dll" Name="AutoMapper.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="Common.Logging.dll" Name="Common.Logging.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="Common.Logging.NLog.dll" Name="Common.Logging.NLog.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="Microsoft.Crm.Sdk.Proxy.dll" Name="Microsoft.Crm.Sdk.Proxy.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="Microsoft.Xrm.Sdk.dll" Name="Microsoft.Xrm.Sdk.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+			  <File Id="Newtonsoft.Json.dll" Name="Newtonsoft.Json.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="NLog.dll" Name="NLog.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />       
+        <File Id="Quartz.dll" Name="Quartz.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="Spring.Aop.dll" Name="Spring.Aop.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="Spring.Core.dll" Name="Spring.Core.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="Spring.Data.dll" Name="Spring.Data.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="Spring.Scheduling.Quartz.dll" Name="Spring.Scheduling.Quartz.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="Twitterizer2.dll" Name="Twitterizer2.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="LinqToTwitter.dll" Name="LinqToTwitter.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="Facebook.dll" Name="Facebook.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        <File Id="uter.sociallistener.general.dll" Name="uter.sociallistener.general.dll" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+
+        <File Id="App.config" Name="uter.sociallistener.service.exe.config" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="no" DiskId="1" />
+        
+        <File Id="uter.sociallistener.service.exe" Name="uter.sociallistener.service.exe" Source="..\uter.sociallistener.service\bin\Debug\" Vital="yes" KeyPath="yes" DiskId="1" />
+        <ServiceInstall
+          Id="ServiceInstaller"
+          Type="ownProcess"
+          Vital="yes"
+          Name="Uter Social Listener"
+          DisplayName ="Uter Social Listener"
+          Description="Social Listener for MSCRM"
+          Start="auto"
+          Account="LocalSystem"
+          ErrorControl="ignore"
+          Interactive="no"
+          >
+      </ServiceInstall>
+      <ServiceControl Id="StartService" Stop="both" Remove="uninstall" Name="Social Listener" Wait="yes" />
+      </Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

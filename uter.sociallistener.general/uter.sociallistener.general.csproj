@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA99521E-2D0F-4CF4-8F86-C16677BEA41F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>uter.sociallistener.general</RootNamespace>
+    <AssemblyName>uter.sociallistener.general</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper">
+      <HintPath>..\packages\AutoMapper.2.1.267\lib\net40\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Facebook">
+      <HintPath>..\packages\Facebook.6.0.24\lib\net45\Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="LinqToTwitter">
+      <HintPath>..\packages\linqtotwitter.2.1.09\lib\net45\LinqToTwitter.dll</HintPath>
+    </Reference>
+    <Reference Include="microsoft.crm.sdk.proxy">
+      <HintPath>..\..\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\libs\microsoft.crm.sdk.proxy.dll</HintPath>
+    </Reference>
+    <Reference Include="microsoft.xrm.sdk">
+      <HintPath>..\..\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\libs\microsoft.xrm.sdk.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\twitterizer.2.4.1.1\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog, Version=1.0.0.505, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\NLog.1.0.0.505\lib\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Twitterizer2">
+      <HintPath>..\packages\twitterizer.2.4.1.1\lib\net40\Twitterizer2.dll</HintPath>
+    </Reference>
+    <Reference Include="Twitterizer2.Asynchronous">
+      <HintPath>..\packages\twitterizer.2.4.1.1\lib\net40\Twitterizer2.Asynchronous.dll</HintPath>
+    </Reference>
+    <Reference Include="Twitterizer2.Streaming">
+      <HintPath>..\packages\twitterizer.2.4.1.1\lib\net40\Twitterizer2.Streaming.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CRM\Connection\CrmConnection.cs" />
+    <Compile Include="CRM\Models\Mapping\CRMFacebookConfigMapper.cs" />
+    <Compile Include="Facebook\Models\DAO\FacebookComment.cs" />
+    <Compile Include="Facebook\Models\DAO\FacebookConfig.cs" />
+    <Compile Include="Facebook\Models\DAO\FacebookFeed.cs" />
+    <Compile Include="Facebook\Models\DAO\FacebookLike.cs" />
+    <Compile Include="Facebook\Models\DAO\FacebookUser.cs" />
+    <Compile Include="Facebook\Models\DAO\HomeProfile.cs" />
+    <Compile Include="Facebook\Models\Mapping\FacebookFeedMapper.cs" />
+    <Compile Include="Facebook\Models\Mapping\FacebookUserMapper.cs" />
+    <Compile Include="Facebook\Repository\FacebookRepository.cs" />
+    <Compile Include="Jobs\FacebookJob.cs" />
+    <Compile Include="Jobs\TwitterJob.cs" />
+    <Compile Include="Twitter\Models\DAO\TwitterConfig.cs" />
+    <Compile Include="CRM\Models\Mapping\CRMTwitterConfigMapper.cs" />
+    <Compile Include="CRM\Repository\CrmRepository.cs" />
+    <Compile Include="Helper\HelperUtils.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Social\ICRMModel.cs" />
+    <Compile Include="Social\ISocialFeed.cs" />
+    <Compile Include="Social\ISocialRepository.cs" />
+    <Compile Include="Social\ISocialUser.cs" />
+    <Compile Include="Twitter\Models\ITwitterEntity.cs" />
+    <Compile Include="Twitter\Models\Mapping\TwitterEntityCollectionMapper.cs" />
+    <Compile Include="Twitter\Models\Mapping\TwitterFeedMapper.cs" />
+    <Compile Include="Twitter\Models\Mapping\TwitterHashTagMapper.cs" />
+    <Compile Include="Twitter\Models\Mapping\TwitterMentionMapper.cs" />
+    <Compile Include="Twitter\Models\Mapping\TwitterUrlMapper.cs" />
+    <Compile Include="Twitter\Models\Mapping\TwitterUserMapper.cs" />
+    <Compile Include="Twitter\Models\DAO\TwitterHashTag.cs" />
+    <Compile Include="Twitter\Models\DAO\TwitterMention.cs" />
+    <Compile Include="Twitter\Models\DAO\TwitterFeed.cs" />
+    <Compile Include="Twitter\Models\DAO\TwitterSocialEntity.cs" />
+    <Compile Include="Twitter\Models\DAO\TwitterUrl.cs" />
+    <Compile Include="Twitter\Models\DAO\TwitterUserProfile.cs" />
+    <Compile Include="Twitter\Repository\NewTwitterRepository.cs" />
+    <Compile Include="Twitter\Repository\TwitterRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Config\socialjob.xml" />
+    <Content Include="GettingStarted.txt" />
+    <Content Include="Twitterizer2.license.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

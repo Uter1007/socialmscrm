@@ -1,0 +1,24 @@
+﻿@model dynamic
+@{
+    ViewBag.Title = "Facebook Login Complete";
+}
+<h2>@ViewBag.Title</h2>
+    Welcome @Model.name
+    Here are your details
+    <pre>       
+            id=@Model.id
+            name=@Model.name
+            first_name=@Model.first_name
+            last_name=@Model.last_name
+            link=@Model.link
+            username=@Model.username
+            hometown=@Model.hometown
+            location=@Model.location
+            education=@Model.education
+            gender=@Model.gender
+            email=@Model.email
+            timezone=@Model.timezone
+            locale=@Model.locale
+            verified=@Model.verified
+            updated_time=@Model.updated_time
+    </pre>

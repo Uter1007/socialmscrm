@@ -1,0 +1,119 @@
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\uter.tuwienscrm.authservice.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\uter.tuwienscrm.authservice.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\EntityFramework.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Facebook.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\microsoft.crm.sdk.proxy.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\microsoft.xrm.client.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\microsoft.xrm.sdk.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Newtonsoft.Json.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\NLog.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Helpers.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Mvc.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Providers.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Razor.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.Razor.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Asynchronous.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Streaming.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Facebook.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Newtonsoft.Json.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\NLog.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\EntityFramework.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Asynchronous.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Streaming.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\obj\Debug\uter.tuwienscrm.authservice.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\obj\Debug\uter.tuwienscrm.authservice.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\obj\Debug\uter.tuwienscrm.authservice.csprojResolveAssemblyReference.cache
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\uter.tuwienscrm.authservice.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\uter.tuwienscrm.authservice.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\EntityFramework.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Facebook.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\microsoft.crm.sdk.proxy.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\microsoft.xrm.client.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\microsoft.xrm.sdk.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Newtonsoft.Json.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\NLog.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Helpers.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Mvc.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Providers.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Razor.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.Razor.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Asynchronous.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Streaming.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Facebook.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Newtonsoft.Json.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\NLog.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\EntityFramework.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Asynchronous.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Streaming.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\obj\Debug\uter.tuwienscrm.authservice.csprojResolveAssemblyReference.cache
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\obj\Debug\uter.tuwienscrm.authservice.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\obj\Debug\uter.tuwienscrm.authservice.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\obj\Debug\uter.tuwienscrm.authservice.csprojResolveAssemblyReference.cache
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\obj\Debug\uter.tuwienscrm.authservice.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\obj\Debug\uter.tuwienscrm.authservice.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\uter.tuwienscrm.authservice.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\uter.tuwienscrm.authservice.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\EntityFramework.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Facebook.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\microsoft.crm.sdk.proxy.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\microsoft.xrm.client.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\microsoft.xrm.sdk.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Newtonsoft.Json.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\NLog.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Helpers.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Mvc.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Providers.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.Razor.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.Razor.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Asynchronous.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Streaming.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Facebook.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Newtonsoft.Json.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\NLog.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\EntityFramework.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Asynchronous.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.authtwitter\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Streaming.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\uter.tuwienscrm.authservice.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\uter.tuwienscrm.authservice.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\EntityFramework.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\Facebook.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\microsoft.crm.sdk.proxy.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\microsoft.xrm.client.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\microsoft.xrm.sdk.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\Newtonsoft.Json.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\NLog.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\System.Web.Helpers.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\System.Web.Mvc.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\System.Web.Providers.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\System.Web.Razor.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\System.Web.WebPages.Razor.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Asynchronous.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\Twitterizer2.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Streaming.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\Facebook.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\Newtonsoft.Json.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\NLog.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\EntityFramework.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\Twitterizer2.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Asynchronous.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\bin\Twitterizer2.Streaming.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\obj\Debug\uter.tuwienscrm.authservice.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.tuwienscrm.authtwitter\obj\Debug\uter.tuwienscrm.authservice.pdb

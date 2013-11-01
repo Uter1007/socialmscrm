@@ -1,0 +1,2 @@
+c:\users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.tuwienscrm.sociallistener\bin\Debug\uter.tuwienscrm.sociallistener.exe.config
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.tuwienscrm.sociallistener\obj\Debug\uter.tuwienscrm.sociallistener.csprojResolveAssemblyReference.cache

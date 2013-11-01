@@ -1,0 +1,124 @@
+ILMerge version 2.12.803.0
+Copyright (C) Microsoft Corporation 2004-2006. All rights reserved.
+ILMerge uter.sociallistener.plugins.dll C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\packages\twitterizer.2.4.1.1\lib\net40/Twitterizer2.dll /log:pluginassemblymerge.log /targetplatform:v4 /keyfile:C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\uter.snk /out:uter.sociallistener.pluginsTwitter.dll 
+An exception occurred during merging:
+Specified key file 'C:\Users\cott\Documents\Visual' not found.
+   at ILMerging.ILMerge.Merge()
+   at ILMerging.ILMerge.Main(String[] args)
+ILMerge version 2.12.803.0
+Copyright (C) Microsoft Corporation 2004-2006. All rights reserved.
+ILMerge uter.sociallistener.plugins.dll C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\packages\twitterizer.2.4.1.1\lib\net40/Twitterizer2.dll /log:pluginassemblymerge.log /targetplatform:v4 /keyfile:C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\uter.snk /out:uter.sociallistener.pluginsTwitter.dll 
+An exception occurred during merging:
+Specified key file 'C:\Users\cott\Documents\Visual' not found.
+   at ILMerging.ILMerge.Merge()
+   at ILMerging.ILMerge.Main(String[] args)
+ILMerge version 2.12.803.0
+Copyright (C) Microsoft Corporation 2004-2006. All rights reserved.
+ILMerge uter.sociallistener.plugins.dll C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\packages\twitterizer.2.4.1.1\lib\net40\Twitterizer2.dll /log:pluginassemblymerge.log /targetplatform:v4 /keyfile:C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\uter.snk /out:uter.sociallistener.pluginsTwitter.dll 
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework64\v2.0.50727\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v2.0.50727
+mscorlib.dll version = 2.0.0.0
+The list of input assemblies is:
+	uter.sociallistener.plugins.dll
+	C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\packages\twitterizer.2.4.1.1\lib\net40\Twitterizer2.dll
+Could not find the file 'uter.sociallistener.plugins.dll'.
+An exception occurred during merging:
+ILMerge.Merge: Could not find the file 'uter.sociallistener.plugins.dll'.
+   at ILMerging.ILMerge.Merge()
+   at ILMerging.ILMerge.Main(String[] args)
+ILMerge version 2.12.803.0
+Copyright (C) Microsoft Corporation 2004-2006. All rights reserved.
+ILMerge C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\packages\twitterizer.2.4.1.1\lib\net40\Twitterizer2.dll /log:pluginassemblymerge.log /targetplatform:v4 /keyfile:C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\uter.snk /out:uter.sociallistener.pluginsTwitter.dll 
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework64\v2.0.50727\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v2.0.50727
+mscorlib.dll version = 2.0.0.0
+The list of input assemblies is:
+	C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll
+	C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\packages\twitterizer.2.4.1.1\lib\net40\Twitterizer2.dll
+Trying to read assembly from the file 'C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll'.
+	Successfully read in assembly.
+	There were no errors reported in uter.sociallistener.plugins's metadata.
+Trying to read assembly from the file 'C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\packages\twitterizer.2.4.1.1\lib\net40\Twitterizer2.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\packages\twitterizer.2.4.1.1\lib\net40\Twitterizer2.dll'.
+	Successfully read in assembly.
+	There were no errors reported in Twitterizer2's metadata.
+Checking to see that all of the input assemblies have a compatible PeKind.
+	uter.sociallistener.plugins.PeKind = ILonly
+	Twitterizer2.PeKind = ILonly
+All input assemblies have a compatible PeKind value.
+AssemblyResolver: Assembly 'uter.sociallistener.plugins' is referencing assembly 'Microsoft.Xrm.Sdk'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Microsoft.Xrm.Sdk'.
+Resolved assembly reference 'Microsoft.Xrm.Sdk' to 'C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\Microsoft.Xrm.Sdk.dll'. (Used referencing Module's directory.)
+AssemblyResolver: Assembly 'Microsoft.Xrm.Sdk' is referencing assembly 'System.Runtime.Serialization'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Runtime.Serialization'.
+Resolved assembly reference 'System.Runtime.Serialization' to 'C:\Windows\Microsoft.NET\Framework64\v2.0.50727\..\v4.0.30319\System.Runtime.Serialization.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'Twitterizer2' is referencing assembly 'Newtonsoft.Json'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Newtonsoft.Json'.
+Resolved assembly reference 'Newtonsoft.Json' to 'C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\packages\twitterizer.2.4.1.1\lib\net40\Newtonsoft.Json.dll'. (Used referencing Module's directory.)
+AssemblyResolver: Assembly 'Newtonsoft.Json' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework64\v2.0.50727\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Using assembly 'uter.sociallistener.plugins' for assembly-level attributes for the target assembly.
+Merging assembly 'uter.sociallistener.plugins' into target assembly.
+Merging assembly 'Twitterizer2' into target assembly.
+Assembly level attribute 'System.Security.AllowPartiallyTrustedCallersAttribute' from assembly 'Twitterizer2' being deleted from target assembly
+Copying 1 Win32 Resources from assembly 'uter.sociallistener.plugins' into target assembly.
+ILMerge: Signing assembly with the key file 'C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\uter.snk'.
+	There were no errors reported in the target assembly's metadata.
+ILMerge: Writing target assembly 'uter.sociallistener.pluginsTwitter.dll'.
+AssemblyResolver: Assembly 'uter.sociallistener.plugins' is referencing assembly 'System.ServiceModel'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.ServiceModel'.
+Resolved assembly reference 'System.ServiceModel' to 'C:\Windows\Microsoft.NET\Framework64\v2.0.50727\..\v4.0.30319\System.ServiceModel.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'Newtonsoft.Json' is referencing assembly 'System.Xml.Linq'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Xml.Linq'.
+Resolved assembly reference 'System.Xml.Linq' to 'C:\Windows\Microsoft.NET\Framework64\v2.0.50727\..\v4.0.30319\System.Xml.Linq.dll'. (Used framework directory.)
+ILMerge: Signed assembly 'uter.sociallistener.pluginsTwitter.dll' with a strong name.
+Location for referenced assembly 'Microsoft.Xrm.Sdk' is 'C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\Microsoft.Xrm.Sdk.dll'
+	There were no errors reported in  Microsoft.Xrm.Sdk's metadata.
+Location for referenced assembly 'mscorlib' is 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll'
+	There were no errors reported in  mscorlib's metadata.
+Location for referenced assembly 'System.ServiceModel' is 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.ServiceModel.dll'
+	There were no errors reported in  System.ServiceModel's metadata.
+Location for referenced assembly 'System.Core' is 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Core.dll'
+	There were no errors reported in  System.Core's metadata.
+Location for referenced assembly 'Newtonsoft.Json' is 'C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\packages\twitterizer.2.4.1.1\lib\net40\Newtonsoft.Json.dll'
+	There were no errors reported in  Newtonsoft.Json's metadata.
+Location for referenced assembly 'System' is 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\system.dll'
+	There were no errors reported in  System's metadata.
+Location for referenced assembly 'System.Drawing' is 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Drawing.dll'
+	There were no errors reported in  System.Drawing's metadata.
+Location for referenced assembly 'System.Xml' is 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Xml.dll'
+	There were no errors reported in  System.Xml's metadata.
+Location for referenced assembly 'System.Runtime.Serialization' is 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Runtime.Serialization.dll'
+	There were no errors reported in  System.Runtime.Serialization's metadata.
+ILMerge: Done.

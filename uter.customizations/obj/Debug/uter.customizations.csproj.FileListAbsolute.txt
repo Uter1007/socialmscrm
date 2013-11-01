@@ -1,0 +1,8 @@
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.customizations\bin\Debug\uter.customizations.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.customizations\bin\Debug\uter.customizations.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.customizations\obj\Debug\uter.customizations.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.customizations\obj\Debug\uter.customizations.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.customizations\bin\Debug\uter.customizations.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.customizations\bin\Debug\uter.customizations.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.customizations\obj\Debug\uter.customizations.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.customizations\obj\Debug\uter.customizations.pdb

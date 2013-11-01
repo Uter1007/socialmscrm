@@ -1,0 +1,57 @@
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\uter.twitter.plugins.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\uter.twitter.plugins.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Asynchronous.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Streaming.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Asynchronous.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Streaming.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.csprojResolveAssemblyReference.cache
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\uter.twitter.plugins.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\uter.twitter.plugins.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Asynchronous.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Streaming.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Asynchronous.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Streaming.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.csprojResolveAssemblyReference.cache
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\uter.twitter.plugins.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\uter.twitter.plugins.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Asynchronous.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Streaming.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Asynchronous.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Twitterizer2.Streaming.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\uter.twitter.plugins.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\uter.twitter.plugins.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.csprojResolveAssemblyReference.cache
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.twitter.plugins\bin\Debug\LinqToTwitter.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.twitter.plugins\bin\Debug\uter.twitter.plugins.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.twitter.plugins\bin\Debug\uter.twitter.plugins.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.twitter.plugins\bin\Debug\LinqToTwitter.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.twitter.plugins\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.twitter.plugins\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.twitter.plugins\obj\Debug\uter.twitter.plugins.pdb

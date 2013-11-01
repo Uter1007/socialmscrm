@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <objects default-autowire="no" xmlns="http://www.springframework.net">
+    <import resource="assembly://uter.sociallistener.general/uter.sociallistener.general.Config/socialjob.xml"/>
+
+    <object name="PropHolder" type="Spring.Objects.Factory.Config.VariablePlaceholderConfigurer, Spring.Core">
+      <property name="VariableSources">
+        <list>
+          <object type="Spring.Objects.Factory.Config.ConfigSectionVariableSource, Spring.Core">
+            <property name="SectionNames" value="jobConfig,crmConfig,facebookConfig,twitterConfig" />
+          </object>
+        </list>
+      </property>
+    </object>
+  </objects>

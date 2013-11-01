@@ -1,0 +1,32 @@
+c:\users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll.config
+c:\users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll
+c:\users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.pdb
+c:\users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\microsoft.xrm.sdk.dll
+c:\users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.dll
+c:\users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.csprojResolveAssemblyReference.cache
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll.config
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.csprojResolveAssemblyReference.cache
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll.config
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll.config
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.csprojResolveAssemblyReference.cache
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll.config
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.plugins\bin\Debug\uter.sociallistener.plugins.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.plugins\obj\Debug\uter.sociallistener.plugins.pdb

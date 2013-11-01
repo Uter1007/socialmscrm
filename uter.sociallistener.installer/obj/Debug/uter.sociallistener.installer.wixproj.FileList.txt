@@ -1,0 +1,19 @@
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\cab1.cab
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.msi
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.wixpdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\cab1.cab
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.msi
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.wixpdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\cab1.cab
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.msi
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.wixpdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\cab1.cab
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.msi
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.wixpdb
+obj\Debug\Product.wixobj
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.installer\bin\Debug\cab1.cab
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.msi
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.installer\bin\Debug\uter.sociallistener.installer.wixpdb
+obj\Debug\uter.sociallistener.installer.wixproj.BindContentsFileListnull.txt
+obj\Debug\uter.sociallistener.installer.wixproj.BindOutputsFileListnull.txt
+obj\Debug\uter.sociallistener.installer.wixproj.BindBuiltOutputsFileListnull.txt

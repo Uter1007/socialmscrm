@@ -1,0 +1,7 @@
+ILMerge version 2.12.803.0
+Copyright (C) Microsoft Corporation 2004-2006. All rights reserved.
+ILMerge uter.sociallistener.plugins.dll C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\packages\twitterizer.2.4.1.1\lib\net40/Twitterizer2.dll /log:pluginassemblymerge.log /targetplatform:v4 /keyfile:C:\Users\cott\Documents\Visual Studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.plugins\uter.snk /out:uter.sociallistener.pluginsTwitter.dll 
+An exception occurred during merging:
+Specified key file 'C:\Users\cott\Documents\Visual' not found.
+   at ILMerging.ILMerge.Merge()
+   at ILMerging.ILMerge.Main(String[] args)

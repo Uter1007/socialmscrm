@@ -1,0 +1,15 @@
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.facebook.plugins\obj\Debug\uter.facebook.plugins.csprojResolveAssemblyReference.cache
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.facebook.plugins\bin\Debug\uter.facebook.plugins.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.facebook.plugins\bin\Debug\uter.facebook.plugins.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.facebook.plugins\bin\Debug\Facebook.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.facebook.plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.facebook.plugins\bin\Debug\Facebook.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.facebook.plugins\obj\Debug\uter.facebook.plugins.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.facebook.plugins\obj\Debug\uter.facebook.plugins.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.facebook.plugins\bin\Debug\uter.facebook.plugins.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.facebook.plugins\bin\Debug\uter.facebook.plugins.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.facebook.plugins\bin\Debug\Facebook.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.facebook.plugins\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.facebook.plugins\bin\Debug\Facebook.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.facebook.plugins\obj\Debug\uter.facebook.plugins.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.facebook.plugins\obj\Debug\uter.facebook.plugins.pdb

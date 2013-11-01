@@ -1,0 +1,174 @@
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.exe.config
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.exe
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.csprojResolveAssemblyReference.cache
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.exe
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Common.Logging.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Quartz.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.ProjectInstaller.resources
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.csproj.GenerateResource.Cache
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\NLog.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Common.Logging.NLog.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\App.config
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Twitterizer2.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\AutoMapper.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.general.pdb
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Twitterizer2.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\AutoMapper.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.SocialListener.resources
+C:\Users\cott\documents\visual studio 2012\Projects\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.general.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\App.config
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.exe.config
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.exe
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Common.Logging.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Common.Logging.NLog.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\NLog.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Quartz.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.general.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Twitterizer2.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\AutoMapper.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.general.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.pdb
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Twitterizer2.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\AutoMapper.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.csprojResolveAssemblyReference.cache
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.ProjectInstaller.resources
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.SocialListener.resources
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.csproj.GenerateResource.Cache
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.exe
+C:\Users\cott\Documents\Visual Studio 2012\Projects\MasterThesis\UterMasterThesis\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\App.config
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.exe.config
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.exe
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Common.Logging.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Common.Logging.NLog.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\NLog.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Quartz.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.general.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Twitterizer2.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\AutoMapper.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.general.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Twitterizer2.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\AutoMapper.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.csprojResolveAssemblyReference.cache
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.ProjectInstaller.resources
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.SocialListener.resources
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.csproj.GenerateResource.Cache
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.exe
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.pdb
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Facebook.dll
+C:\Users\Christoph\Dropbox\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Facebook.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\App.config
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.exe.config
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.exe
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Common.Logging.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Common.Logging.NLog.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\NLog.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Quartz.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.general.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Facebook.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Twitterizer2.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\AutoMapper.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\uter.sociallistener.general.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Aop.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Core.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Data.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Facebook.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Twitterizer2.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\AutoMapper.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.csprojResolveAssemblyReference.cache
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.ProjectInstaller.resources
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.SocialListener.resources
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.csproj.GenerateResource.Cache
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.exe
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.pdb
+C:\Users\uter\Desktop\MasterArbeit\Code\uter.tuwienscrm.sociallistener\uter.sociallistener.service\bin\Debug\LinqToTwitter.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.exe.config
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.exe
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\uter.sociallistener.service.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Common.Logging.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Common.Logging.NLog.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\NLog.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Quartz.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Aop.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Core.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Data.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.dll
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Aop.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Aop.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Core.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Core.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Data.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Data.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.pdb
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\bin\Debug\Spring.Scheduling.Quartz.xml
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.csprojResolveAssemblyReference.cache
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.ProjectInstaller.resources
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.SocialListener.resources
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.csproj.GenerateResource.Cache
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.exe
+C:\Users\uter\Desktop\NewCode\SocialCRM\uter.sociallistener.service\obj\Debug\uter.sociallistener.service.pdb

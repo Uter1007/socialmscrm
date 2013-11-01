@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects  default-autowire="no" xmlns="http://www.springframework.net"
+                                xmlns:db="http://www.springframework.net/database">
+
+
+ <object name="TwitterJob" type="Spring.Scheduling.Quartz.MethodInvokingJobDetailFactoryObject, Spring.Scheduling.Quartz">
+    <property name="TargetObject" ref="TwitterWorker" />
+    <property name="TargetMethod" value="Run" />
+    <property name="Concurrent" value="false"/>
+  </object>
+
+  <object name ="TwitterWorker" type="uter.sociallistener.general.Jobs.TwitterJob,uter.sociallistener.general ">
+    <property name="Connection" ref="CrmConnection" />
+    <property name="ConsumerKey" value="${Twitter.ConsumerKey}" />
+    <property name="ConsumerSecret" value="${Twitter.ConsumerSecret}" />
+  </object>
+
+  <object id="TwitterJobTrigger" type="Spring.Scheduling.Quartz.CronTriggerObject, Spring.Scheduling.Quartz">
+    <property name="jobDetail" ref="TwitterJob" />
+    <property name="cronExpressionString" value="${Twitter.JobTriggerTime}"/>
+  </object>
+  
+   <object name="FacebookJob" type="Spring.Scheduling.Quartz.MethodInvokingJobDetailFactoryObject, Spring.Scheduling.Quartz">
+    <property name="TargetObject" ref="FacebookWorker" />
+    <property name="TargetMethod" value="Run" />
+    <property name="Concurrent" value="false"/>
+  </object>
+
+  <object name ="FacebookWorker" type="uter.sociallistener.general.Jobs.FacebookJob,uter.sociallistener.general ">
+    <property name="Connection" ref="CrmConnection" />
+    <property name="ConsumerKey" value="${Facebook.ConsumerKey}" />
+    <property name="ConsumerSecret" value="${Facebook.ConsumerSecret}" />
+  </object>
+
+  <object id="FacebookJobTrigger" type="Spring.Scheduling.Quartz.CronTriggerObject, Spring.Scheduling.Quartz">
+    <property name="jobDetail" ref="FacebookJob" />
+    <property name="cronExpressionString" value="${Facebook.JobTriggerTime}"/>
+  </object>
+  
+  <object name="CrmConnection" type="uter.sociallistener.general.CRM.Connection.CrmConnection, uter.sociallistener.general">
+    <property name="Url" value="${Crm.Host}" />
+    <property name="Domain" value="${Crm.UserDomain}" />
+    <property name="UserName" value="${Crm.UserName}" />
+    <property name="Password" value="${Crm.Password}" />
+    <property name="Organization" value="${Crm.Organisation}" />
+  </object>
+  
+  <object type="Spring.Scheduling.Quartz.SchedulerFactoryObject, Spring.Scheduling.Quartz" id="schedulerFactory">
+    <property name="triggers">
+      <list>
+        <ref object="TwitterJobTrigger"/>
+        <ref object="FacebookJobTrigger"/>
+      </list>
+    </property>
+    <property name="autoStartup" value="true" />
+  </object>
+
+</objects>
